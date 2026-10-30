@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://estevaorizzo.github.io/sitemap.xml
+Sitemap: https://estevaorizzo.com.br/sitemap.xml

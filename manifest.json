@@ -1,6 +1,6 @@
 {
   "managedBuild": "approved-proposal-prelaunch-v1",
-  "siteUrl": "https://estevaorizzo.github.io/",
+  "siteUrl": "https://estevaorizzo.com.br/",
   "notice": "GitHub Pages deployment package. _headers is ignored by GitHub Pages.",
   "files": {
     ".nojekyll": {
@@ -8,11 +8,15 @@
       "bytes": 0
     },
     "404.html": {
-      "sha256": "a9bc13bf1f45d9b87d803ce234d1d16344eb68443647afab453c38600a1e4545",
+      "sha256": "aec2b7ed5022fb256c5c5b3454210b4a4d026640c211205baa20f3cb0a16eaba",
       "bytes": 846
     },
+    "CNAME": {
+      "sha256": "95e9d74089bb160aeb96720130d38046a562e52e55ca540b829518301e83ae93",
+      "bytes": 19
+    },
     "_headers": {
-      "sha256": "f4b6c4d6a5765b5a6ed20858034b5de8d744777d074a50c0436365aa2b7fb925",
+      "sha256": "32785925f64a75219756a300f608f1f89f2362f2f2051323d29466c13ebaf3b3",
       "bytes": 1148
     },
     "assets/abbott.94180be63952.webp": {
@@ -176,20 +180,20 @@
       "bytes": 1682
     },
     "index.html": {
-      "sha256": "3f1da256d8024a5a90f8df20042d9670fbd1c16496649aaef2ad78a317cad735",
-      "bytes": 21590
+      "sha256": "147f603cc9d97a02219388605d778eec8ff6fef5625078610bbda02d44981d8e",
+      "bytes": 21530
     },
     "robots.txt": {
-      "sha256": "c662c37a72cb19250d46e66fff6cee28384eba368b50b20fea8538dedd549472",
-      "bytes": 76
+      "sha256": "3c32a3e65b8a56066a1033460d0f89a4e708c187f9ac295eaea7d59c43b6d8a9",
+      "bytes": 73
     },
     "sitemap.xml": {
-      "sha256": "c476d3bc33dd9c19a6cc974e70dd30104fec0db083da24434220ebd714635fec",
-      "bytes": 162
+      "sha256": "d1496adb222157563d98e7ad8ec0e3e2701ca7e6a4158b43d545b2bebaa82a00",
+      "bytes": 159
     }
   },
   "deployment": {
     "repository": "estevaorizzo/estevaorizzo.github.io",
-    "origin": "https://estevaorizzo.github.io/"
+    "origin": "https://estevaorizzo.com.br/"
   }
 }
