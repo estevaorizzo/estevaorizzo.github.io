@@ -1,5 +1,5 @@
 /*
-  Content-Security-Policy: default-src 'none'; base-uri 'none'; object-src 'none'; script-src 'self' 'sha256-ei03oTziyxDRMPW9Ap0ZIcWhsXkd4BzcXF1eRUnA1vQ=' https://www.googletagmanager.com 'sha256-bgyh6uHHwU28dTfHAWDa4FvMR0xRkmNMKqVP+5e9Ipc='; style-src 'self'; img-src 'self' https://www.googletagmanager.com https://*.google-analytics.com; font-src 'self'; connect-src https://www.googletagmanager.com https://*.google-analytics.com https://*.google.com; form-action 'none'; frame-ancestors 'none'
+  Content-Security-Policy: default-src 'none'; base-uri 'none'; object-src 'none'; script-src 'self' 'sha256-ei03oTziyxDRMPW9Ap0ZIcWhsXkd4BzcXF1eRUnA1vQ=' https://www.googletagmanager.com 'sha256-7wJMc7lxmKuv1NgM18GFSMruNy0VkFvlP5cMuE8OVM0='; style-src 'self'; img-src 'self' https://www.googletagmanager.com https://*.google-analytics.com; font-src 'self'; connect-src https://www.googletagmanager.com https://*.google-analytics.com https://*.google.com; form-action 'none'; frame-ancestors 'none'
   X-Content-Type-Options: nosniff
   X-Frame-Options: DENY
   Referrer-Policy: strict-origin-when-cross-origin

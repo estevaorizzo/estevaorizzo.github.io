@@ -8,7 +8,7 @@
       "bytes": 0
     },
     "404.html": {
-      "sha256": "aec2b7ed5022fb256c5c5b3454210b4a4d026640c211205baa20f3cb0a16eaba",
+      "sha256": "8fca064eeaa5897b83d5b5f0112f166b75c2719b28c849d79963b1a96d840605",
       "bytes": 846
     },
     "CNAME": {
@@ -16,7 +16,7 @@
       "bytes": 19
     },
     "_headers": {
-      "sha256": "7baf666a125bcc22057fb33b488900d6c869a22c3fc77cd3be8f92ae2b231eaa",
+      "sha256": "32723a140a08181ce5a413b27e5ff0dd6646f24f5b07d4c022201ed450dac07a",
       "bytes": 1377
     },
     "assets/abbott.94180be63952.webp": {
@@ -50,6 +50,10 @@
     "assets/bradesco.557560180b55.webp": {
       "sha256": "557560180b55e78aa99286392c49adef28c2fb53c1adf8caea4458d177a44c38",
       "bytes": 2220
+    },
+    "assets/compartilhamento.45283b669757.jpg": {
+      "sha256": "45283b6697579dce2b6b1c6fcc643b9dece30f2dc2c2e4db31087720696991d6",
+      "bytes": 91854
     },
     "assets/compartilhamento.ea81ffd87300.jpg": {
       "sha256": "ea81ffd87300a450d41d7bf3ce7dba58d56f908b9a9429ceed552e8ed4aad6e3",
@@ -180,7 +184,7 @@
       "bytes": 1682
     },
     "index.html": {
-      "sha256": "f7ae8cca3f6eddba702f4f366005fd8d299549fa0dbb1fec336fb562fbb14e94",
+      "sha256": "e85543be4fd2bafa691851cff9166713dc92b3c252ac5668eae1a4b781ece5f7",
       "bytes": 22051
     },
     "robots.txt": {
@@ -198,5 +202,10 @@
   },
   "analytics": {
     "measurementId": "G-66XRW16HXY"
+  },
+  "sharing": {
+    "image": "assets/compartilhamento.45283b669757.jpg",
+    "width": 1200,
+    "height": 630
   }
 }
