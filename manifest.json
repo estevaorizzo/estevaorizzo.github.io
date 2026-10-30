@@ -16,8 +16,8 @@
       "bytes": 19
     },
     "_headers": {
-      "sha256": "32785925f64a75219756a300f608f1f89f2362f2f2051323d29466c13ebaf3b3",
-      "bytes": 1148
+      "sha256": "7baf666a125bcc22057fb33b488900d6c869a22c3fc77cd3be8f92ae2b231eaa",
+      "bytes": 1377
     },
     "assets/abbott.94180be63952.webp": {
       "sha256": "94180be639520d7a50720d2c57b95e02f1f1f3b0f27578e4b0cf3ab1aad4d17d",
@@ -180,8 +180,8 @@
       "bytes": 1682
     },
     "index.html": {
-      "sha256": "147f603cc9d97a02219388605d778eec8ff6fef5625078610bbda02d44981d8e",
-      "bytes": 21530
+      "sha256": "f7ae8cca3f6eddba702f4f366005fd8d299549fa0dbb1fec336fb562fbb14e94",
+      "bytes": 22051
     },
     "robots.txt": {
       "sha256": "3c32a3e65b8a56066a1033460d0f89a4e708c187f9ac295eaea7d59c43b6d8a9",
@@ -195,5 +195,8 @@
   "deployment": {
     "repository": "estevaorizzo/estevaorizzo.github.io",
     "origin": "https://estevaorizzo.com.br/"
+  },
+  "analytics": {
+    "measurementId": "G-66XRW16HXY"
   }
 }
