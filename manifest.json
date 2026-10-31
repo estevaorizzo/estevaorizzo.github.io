@@ -183,6 +183,18 @@
       "sha256": "5d6a033ee7ac616de1af180c4903da599bc263559f8f3ff32c8d033ba96271a9",
       "bytes": 1682
     },
+    "hermes-pessoal/estilo.css": {
+      "sha256": "5783d10afb6ee4d5ccb0b0d9509da6b28ea4374ba6a73babe0be57f0acce89e1",
+      "bytes": 2756
+    },
+    "hermes-pessoal/index.html": {
+      "sha256": "0ce96020f488aa4fc1222191e8a565644da5cc5d52073291fcc1b22536ec8871",
+      "bytes": 4384
+    },
+    "hermes-pessoal/privacidade/index.html": {
+      "sha256": "2f74fc0c0aac0a0d1b9f7f06cc0f78acdd72b10c4a0db526ed1b60f2b91268c8",
+      "bytes": 9975
+    },
     "index.html": {
       "sha256": "e85543be4fd2bafa691851cff9166713dc92b3c252ac5668eae1a4b781ece5f7",
       "bytes": 22051
