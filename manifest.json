@@ -9,7 +9,7 @@
       "bytes": 0
     },
     "404.html": {
-      "sha256": "a51580b547d635ac07c4f1a628781201d236e0805bdfaa5fd35a9c14a8dfe333",
+      "sha256": "b8c9f493e983d767ff0fb2bb633a01d1312f8d742b0112fbfff3bbe0545a1a1a",
       "bytes": 1216
     },
     "CNAME": {
@@ -39,6 +39,10 @@
     "assets/compartilhamento.45283b669757.jpg": {
       "sha256": "45283b6697579dce2b6b1c6fcc643b9dece30f2dc2c2e4db31087720696991d6",
       "bytes": 91854
+    },
+    "assets/compartilhamento.693e7b1e4fb2.jpg": {
+      "sha256": "693e7b1e4fb2bf1fc97e93d7bcf222b389127b20f30369de898f23286be74895",
+      "bytes": 182555
     },
     "assets/compartilhamento.ea81ffd87300.jpg": {
       "sha256": "ea81ffd87300a450d41d7bf3ce7dba58d56f908b9a9429ceed552e8ed4aad6e3",
@@ -165,7 +169,7 @@
       "bytes": 9975
     },
     "index.html": {
-      "sha256": "08866773cc65c3698a7b49959c7bea38234505798f3b22bb9849635a3dfbe0a2",
+      "sha256": "68f517225c0b1c8cf473ced7994fd5250887dae6e2e41009300431f53da04467",
       "bytes": 23576
     },
     "index.md": {
