@@ -1,0 +1,31 @@
+# Estevão Rizzo — Mentoria de apresentação e storytelling
+
+> Site oficial de Estevão Rizzo, professor, palestrante e mentor executivo. Seu programa Do Zero ao Palco é uma mentoria individual de apresentação e storytelling para executivos, com trabalho prático na apresentação do participante.
+
+O programa Do Zero ao Palco tem 6 encontros individuais e práticos, de até 1h30 cada, com suporte pelo WhatsApp até o final do processo. A jornada inclui definição da narrativa, revisão de conteúdo e tempo, ensaios de apresentação e preparação para imprevistos.
+
+O programa atende quem faz apresentações corporativas, prepara uma palestra, vai falar em público pela primeira vez ou busca aperfeiçoar sua técnica e presença de palco.
+
+Estevão Rizzo é professor na FGV e na FAAP, palestrante profissional, treinador corporativo e mentor executivo. Fala em público há mais de 20 anos e é sócio e fundador da Por Exemplo e da Por Exemplo Farma.
+
+O valor total publicado é R$ 4.750: 50% após a 1ª sessão e 50% após a 4ª sessão. A avaliação inicial é sem custo e o agendamento é feito pelo WhatsApp, pelos botões da página. Consulte a página oficial para as condições vigentes.
+
+A versão em Markdown reúne informações factuais e respostas sobre público, formato, jornada, preço, pagamento e agendamento. Os demais links locais levam às páginas HTML; as âncoras abrem as seções correspondentes. As referências à FGV e à FAAP descrevem a atuação do mentor como professor, não as instituições como ofertantes do programa.
+
+## Mentoria Do Zero ao Palco
+
+- [Guia factual da mentoria em Markdown](https://estevaorizzo.com.br/index.md): quem é Estevão Rizzo, para quem é o programa, o trabalho em cada encontro, investimento e como agendar.
+- [Página oficial](https://estevaorizzo.com.br/): apresentação da mentoria individual e informações do programa.
+- [Como funciona](https://estevaorizzo.com.br/#programa): formato dos encontros e suporte.
+- [A jornada](https://estevaorizzo.com.br/#jornada): o trabalho desenvolvido em cada um dos seis encontros.
+- [Seu mentor](https://estevaorizzo.com.br/#mentor): apresentação e trajetória de Estevão Rizzo.
+- [Investimento](https://estevaorizzo.com.br/#investimento): valor total e condições de pagamento publicadas.
+- [Agendar avaliação sem custo](https://estevaorizzo.com.br/#contato): acesso ao botão de contato pelo WhatsApp.
+
+## Optional
+
+- [LinkedIn de Estevão Rizzo](https://www.linkedin.com/in/estevaorizzo/): perfil profissional indicado no site.
+- [Instagram de Estevão Rizzo](https://www.instagram.com/estevaorizzo/): perfil indicado no site.
+- [Por Exemplo](https://porexemplo.pe/): empresa indicada no rodapé do site pessoal.
+- [Hermes Pessoal](https://estevaorizzo.com.br/hermes-pessoal/): página complementar sobre o Hermes Pessoal.
+- [Privacidade do Hermes Pessoal](https://estevaorizzo.com.br/hermes-pessoal/privacidade/): política específica do Hermes Pessoal; não é uma política geral da mentoria.

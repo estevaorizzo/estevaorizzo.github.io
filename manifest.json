@@ -153,8 +153,16 @@
       "bytes": 9975
     },
     "index.html": {
-      "sha256": "68087c54d07e038ff3c3ae96f34fbe4cd43c091a61338fa91854c955342344de",
-      "bytes": 22207
+      "sha256": "640467916c15304029f980725c8292f0026f3d7e8405e6203fff755b4c3998fe",
+      "bytes": 22328
+    },
+    "index.md": {
+      "sha256": "41a30f72ca90485771946388bed27327c4f99a4cdc577acdfebd2b6684cc9ea8",
+      "bytes": 4130
+    },
+    "llms.txt": {
+      "sha256": "447c982f1a883778397bde2b0474602d91e318f7133c97af95438c1d6d1a16d2",
+      "bytes": 3037
     },
     "robots.txt": {
       "sha256": "3c32a3e65b8a56066a1033460d0f89a4e708c187f9ac295eaea7d59c43b6d8a9",
