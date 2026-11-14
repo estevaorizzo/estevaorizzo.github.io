@@ -55,6 +55,26 @@ A oferta apresentada neste site é a mentoria individual com Estevão Rizzo. FGV
 
 A empresa identificada no rodapé do site é POR EXEMPLO CONSULTORIA E TREINAMENTOS CORPORATIVOS LTDA., CNPJ 36.922.889/0001-01. O mentor se apresenta como sócio e fundador da Por Exemplo e da Por Exemplo Farma.
 
+## Perguntas frequentes
+
+### Os encontros são em grupo ou individuais?
+
+A mentoria tem 6 encontros individuais e práticos, de até 1h30 cada, com suporte pelo WhatsApp até o final do processo.
+
+### Vou trabalhar na minha própria apresentação?
+
+Sim. Vamos trabalhar na sua própria apresentação, da organização do conteúdo ao ensaio final.
+
+### A mentoria serve para quem vai falar em público pela primeira vez?
+
+Sim. A mentoria é para quem vai subir ao palco pela primeira vez e também para quem já fala em público e quer aperfeiçoar a técnica e a presença de palco.
+
+### A avaliação inicial tem custo?
+
+Não. A avaliação é sem custo. O agendamento é feito pelo WhatsApp.
+
+Leia as [perguntas frequentes na página principal](https://estevaorizzo.com.br/#perguntas-frequentes).
+
 ## Perfis e referências oficiais indicados no site
 
 - [LinkedIn de Estevão Rizzo](https://www.linkedin.com/in/estevaorizzo/).

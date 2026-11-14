@@ -20,6 +20,7 @@ A versão em Markdown reúne informações factuais e respostas sobre público, 
 - [A jornada](https://estevaorizzo.com.br/#jornada): o trabalho desenvolvido em cada um dos seis encontros.
 - [Seu mentor](https://estevaorizzo.com.br/#mentor): apresentação e trajetória de Estevão Rizzo.
 - [Investimento](https://estevaorizzo.com.br/#investimento): valor total e condições de pagamento publicadas.
+- [Perguntas frequentes](https://estevaorizzo.com.br/#perguntas-frequentes): respostas sobre encontros individuais, trabalho na própria apresentação, primeira apresentação em público e avaliação sem custo.
 - [Agendar avaliação sem custo](https://estevaorizzo.com.br/#contato): acesso ao botão de contato pelo WhatsApp.
 
 ## Optional
