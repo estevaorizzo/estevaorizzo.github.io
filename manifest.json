@@ -1,39 +1,28 @@
 {
-  "managedBuild": "approved-proposal-prelaunch-v1",
+  "managedBuild": "estevao-technical-2026-11-14",
+  "sourceSha256": "20812e66e0910807313f7fe127a65018389761085722af0ca523ce1ce7637c7f",
   "siteUrl": "https://estevaorizzo.com.br/",
-  "notice": "GitHub Pages deployment package. _headers is ignored by GitHub Pages.",
+  "notice": "Release package; deployment recorded externally. GitHub Pages does not apply _headers.",
   "files": {
     ".nojekyll": {
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "bytes": 0
     },
     "404.html": {
-      "sha256": "8fca064eeaa5897b83d5b5f0112f166b75c2719b28c849d79963b1a96d840605",
-      "bytes": 846
+      "sha256": "4de5b5845829c110be97b18b8d3ae5004916fcf06e0204d0c8bfb10b29d99b67",
+      "bytes": 844
     },
     "CNAME": {
       "sha256": "95e9d74089bb160aeb96720130d38046a562e52e55ca540b829518301e83ae93",
       "bytes": 19
     },
-    "_headers": {
-      "sha256": "32723a140a08181ce5a413b27e5ff0dd6646f24f5b07d4c022201ed450dac07a",
-      "bytes": 1377
+    "assets/IMG-2420.899ae5d7d352.jpg": {
+      "sha256": "899ae5d7d352a6641df0b8b0d1f7eead5ccc1688b6405f59681fe17ba1498b81",
+      "bytes": 309175
     },
     "assets/abbott.94180be63952.webp": {
       "sha256": "94180be639520d7a50720d2c57b95e02f1f1f3b0f27578e4b0cf3ab1aad4d17d",
       "bytes": 1860
-    },
-    "assets/audiencia-lateral-1280.54c4c8f4aae5.webp": {
-      "sha256": "54c4c8f4aae571a80e65a4e1b4d7eb6089138cb31c0f8e3ff28c0f0bd265f732",
-      "bytes": 158352
-    },
-    "assets/audiencia-lateral-2301.16fe19909716.webp": {
-      "sha256": "16fe19909716059e4c2ee7ca23f370d8d338dfadcdbae0f083cbd13db8f7cdbf",
-      "bytes": 354154
-    },
-    "assets/audiencia-lateral-640.38f4e564142e.webp": {
-      "sha256": "38f4e564142ed8af6296963f91d781ba5d90fa831af0e40e81bcb6aaf447764f",
-      "bytes": 52064
     },
     "assets/basf.68678ba7069f.webp": {
       "sha256": "68678ba7069f11ef811a7d443bdb401ffa71200bc843aa006d58cce6d95ebbbd",
@@ -42,10 +31,6 @@
     "assets/bett-palco-1280.12c8e95ba525.webp": {
       "sha256": "12c8e95ba525cce2e9ceaee15aea335a021b75d6c0d539018af6fe3a8bb681f6",
       "bytes": 77486
-    },
-    "assets/bett-palco-640.cff948695519.webp": {
-      "sha256": "cff948695519b23665068bdc20aff0989c73b6eede3011e3912b3f147fd43263",
-      "bytes": 28324
     },
     "assets/bradesco.557560180b55.webp": {
       "sha256": "557560180b55e78aa99286392c49adef28c2fb53c1adf8caea4458d177a44c38",
@@ -71,10 +56,6 @@
       "sha256": "a8c9b7f19bc3a431768acc4e3737b2f062d1d7df215046503917227b22666891",
       "bytes": 91420
     },
-    "assets/encontro-640.0425b0f6f926.webp": {
-      "sha256": "0425b0f6f92676716bae63345c44725ae9b605429eb8bc121d34959023475970",
-      "bytes": 33526
-    },
     "assets/favicon-48.edff2e69ebd6.png": {
       "sha256": "edff2e69ebd651ddadafdfba1e59e3ae0c8c778d2296fa0b4b501b63157f4d42",
       "bytes": 4489
@@ -83,49 +64,45 @@
       "sha256": "8d495668f54475806dd89f35252b13a0a0d0a1b9326eb9c1b00aba0640c08922",
       "bytes": 6596
     },
-    "assets/fonts/inter-latin-ext.34b9c504cab7.woff2": {
-      "sha256": "34b9c504cab7a73e37b746343a449132e56cf7b5481af2cb81dc74dcff25c956",
-      "bytes": 85068
-    },
-    "assets/fonts/inter-latin.3100e775e861.woff2": {
-      "sha256": "3100e775e8616cd2611beecfa23a4263d7037586789b43f035236a2e6fbd4c62",
-      "bytes": 48256
-    },
     "assets/honda.1d8a2cef168b.webp": {
       "sha256": "1d8a2cef168be44e16433353a560471682f141fb6412dc652aabdf57961dead8",
       "bytes": 12748
+    },
+    "assets/inter-latin.3100e775e861.woff2": {
+      "sha256": "3100e775e8616cd2611beecfa23a4263d7037586789b43f035236a2e6fbd4c62",
+      "bytes": 48256
     },
     "assets/locaweb.7d8f65f2ada0.webp": {
       "sha256": "7d8f65f2ada0ab13eee2ec020fdb6461c8da1752fa40bc9dc5977c244a18a89b",
       "bytes": 1908
     },
+    "assets/medicao.e8d3e9f836d6.js": {
+      "sha256": "e8d3e9f836d6ced9bef32ba67c5f4405544ffb1e213b1f69ad40fa46b5164367",
+      "bytes": 2777
+    },
     "assets/mentor-1000.f4a577def253.webp": {
       "sha256": "f4a577def253847e4334b4fdb83a1e84b8216b24c31908b6c32b3751d911f3e1",
       "bytes": 45522
-    },
-    "assets/mentor-600.19d1abcf7dc2.webp": {
-      "sha256": "19d1abcf7dc2ed03750923fcf2380bb97dc13291e3bd651db4444ceffd21af5a",
-      "bytes": 24754
     },
     "assets/novartis.fcd00bc76065.webp": {
       "sha256": "fcd00bc76065ba000b73ac154827ea6a3b81d4ae3a3703d7c9dea9a879ec47b1",
       "bytes": 2580
     },
-    "assets/palco-alternativo-1280.49e192e1bec5.webp": {
-      "sha256": "49e192e1bec5b0b542c093f635df84b959c000e04b8afe30bec45eb194f6ee4c",
-      "bytes": 133862
+    "assets/pagina-motion.a646057cb91d.js": {
+      "sha256": "a646057cb91daeb1624197a624e909573f89e57993a79f2fcf4842ac61b6e064",
+      "bytes": 2581
     },
-    "assets/palco-alternativo-640.2a009e8fe8d3.webp": {
-      "sha256": "2a009e8fe8d39ee9dd3599aad7a2809ebb502edbc76f93461a923b10e7624c68",
-      "bytes": 51864
+    "assets/pagina.56d1e978faae.css": {
+      "sha256": "56d1e978faae932b57f47ee3e78b7fb428e0c21978a7f7d309bfb90a62b2ee9f",
+      "bytes": 19502
     },
-    "assets/proposta-motion.dc845a43344d.js": {
-      "sha256": "dc845a43344df38b36bd16ccc0dbbbd6a8bfc4950739f79fab17d2417e8051df",
-      "bytes": 2806
+    "assets/plateia-ampla.16590b679f77.jpeg": {
+      "sha256": "16590b679f77e90b6ad067fe212892078122dd230d898ad22f2539c1f2fff8a8",
+      "bytes": 120788
     },
-    "assets/proposta.4c34c5579983.css": {
-      "sha256": "4c34c5579983b3edd7eeb228884ea6820ab336bd19c250697efa937ef8c06275",
-      "bytes": 18726
+    "assets/por-exemplo-marca.3a0ff4815eaf.png": {
+      "sha256": "3a0ff4815eaf4ea7cd984493277fa31c2ab5c0fe19a25fcf1b3a634ab5c9dc0f",
+      "bytes": 21619
     },
     "assets/publicis-sapient.928f837df2cb.webp": {
       "sha256": "928f837df2cb1824ce9ccf5fda7a2198d2f2dcbdb3db5ac5353277e4699ba3df",
@@ -135,25 +112,9 @@
       "sha256": "7ff71a30dc8259bcc3dc3255f1d71aa0a128e5d07566527605a99e6335f02243",
       "bytes": 11286
     },
-    "assets/sindusfarma-1280.eceb0bc92ae9.webp": {
-      "sha256": "eceb0bc92ae94b78425b4b9773288838411027b734211f3aec8d73362f668780",
-      "bytes": 42180
-    },
     "assets/sindusfarma-1600.17637f7bfa05.webp": {
       "sha256": "17637f7bfa058e30755440ce2209bd91fb5e2ccd9bdf1cc16bd3da830d146942",
       "bytes": 64888
-    },
-    "assets/sindusfarma-2301.dbeaa7017c1b.webp": {
-      "sha256": "dbeaa7017c1b0ddfb9e3ad76ba4dd652aae7af4335d9ebc42cf6e8c0bee33804",
-      "bytes": 109790
-    },
-    "assets/sindusfarma-640.467cfeab2806.webp": {
-      "sha256": "467cfeab2806a5b18306198fcb61d45f755513ff2c56cea2989d041465ff6253",
-      "bytes": 16720
-    },
-    "assets/smart-summit-480.1cac2a4839dd.webp": {
-      "sha256": "1cac2a4839dd60fd64c6d3f769f347d0d7c819e1682d83f447bb0f2d7841a509",
-      "bytes": 40504
     },
     "assets/smart-summit-960.2ed9a8fe3ad1.webp": {
       "sha256": "2ed9a8fe3ad175375e853666849a44f3bf373fcefa30a6212fdf6a8fecb3fca6",
@@ -170,10 +131,6 @@
     "assets/uol.6cb3db184672.webp": {
       "sha256": "6cb3db184672aa1c55180fecb13866cf51c3717bdb97d3ac2b94327ad2648163",
       "bytes": 8652
-    },
-    "assets/workshop-1280.3d30601ac67b.webp": {
-      "sha256": "3d30601ac67b72a2ff879d4f279a6ea30f7bd59193222233f717e678c843bb3b",
-      "bytes": 161824
     },
     "assets/workshop-640.a4dfb3968a65.webp": {
       "sha256": "a4dfb3968a65dfb09c2f027645123143fae5fba6356d269ec832e81552308f28",
@@ -196,8 +153,8 @@
       "bytes": 9975
     },
     "index.html": {
-      "sha256": "e85543be4fd2bafa691851cff9166713dc92b3c252ac5668eae1a4b781ece5f7",
-      "bytes": 22051
+      "sha256": "68087c54d07e038ff3c3ae96f34fbe4cd43c091a61338fa91854c955342344de",
+      "bytes": 22207
     },
     "robots.txt": {
       "sha256": "3c32a3e65b8a56066a1033460d0f89a4e708c187f9ac295eaea7d59c43b6d8a9",
@@ -207,17 +164,5 @@
       "sha256": "d1496adb222157563d98e7ad8ec0e3e2701ca7e6a4158b43d545b2bebaa82a00",
       "bytes": 159
     }
-  },
-  "deployment": {
-    "repository": "estevaorizzo/estevaorizzo.github.io",
-    "origin": "https://estevaorizzo.com.br/"
-  },
-  "analytics": {
-    "measurementId": "G-66XRW16HXY"
-  },
-  "sharing": {
-    "image": "assets/compartilhamento.45283b669757.jpg",
-    "width": 1200,
-    "height": 630
   }
 }
