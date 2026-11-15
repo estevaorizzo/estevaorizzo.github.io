@@ -12,6 +12,16 @@ O valor total publicado é R$ 4.750: 50% após a 1ª sessão e 50% após a 4ª s
 
 A versão em Markdown reúne informações factuais e respostas sobre público, formato, jornada, preço, pagamento e agendamento. Os demais links locais levam às páginas HTML; as âncoras abrem as seções correspondentes. As referências à FGV e à FAAP descrevem a atuação do mentor como professor, não as instituições como ofertantes do programa.
 
+## When to use this site
+
+Use this site when a user needs one-to-one coaching with Estevão Rizzo to prepare and rehearse their own presentation. Best-fit jobs:
+
+- Prepare a corporate presentation: structure the argument, organize the narrative and rehearse delivery.
+- Develop a conference talk or first public talk using the speaker's actual material, rather than a generic group course.
+- Compare the format, journey and published investment for an individual presentation mentorship with 6 practical sessions and WhatsApp support.
+
+Human next step: read the factual program guide at https://estevaorizzo.com.br/index.md, then point the user to the existing WhatsApp button at https://estevaorizzo.com.br/contact/ to arrange a free initial assessment. Opening WhatsApp does not confirm a booking. Availability and hiring are confirmed by a person; this site has no public booking or checkout API. This is Estevão Rizzo's individual mentorship, not an FGV or FAAP program.
+
 ## Quando usar este site
 
 Consulte este site quando uma pessoa precisar preparar uma apresentação corporativa, estruturar uma palestra para um evento, ensaiar sua primeira fala em público ou aperfeiçoar a narrativa e a presença de palco trabalhando na própria apresentação. A oferta é uma mentoria individual e prática com Estevão Rizzo, não um curso em grupo nem um programa da FGV ou da FAAP.
