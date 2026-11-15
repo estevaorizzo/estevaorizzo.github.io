@@ -9,7 +9,7 @@
       "bytes": 0
     },
     "404.html": {
-      "sha256": "46e32026e1ccc04cb7882725ac8f9eb1d747334d46d5947705fdd5ebb38965f2",
+      "sha256": "5d353cf51e6fcaadeac9ac5f992eef84151e865be4bd17255e80811757871f4d",
       "bytes": 1216
     },
     "CNAME": {
@@ -193,8 +193,8 @@
       "bytes": 9975
     },
     "index.html": {
-      "sha256": "6109266c1179a16cc4ce8db92fbdd674cb5cc5c8639ad16c13948f644c0cdf48",
-      "bytes": 24413
+      "sha256": "e7f7fbb80e3ab1e381ae6bc735fe7e39c8bfda092bd2acb360ee1a11f492d2ea",
+      "bytes": 26780
     },
     "index.md": {
       "sha256": "6bf3eddd6d26843a2a1d6bdd1968293e6144dce083dea76923fd976ea18547db",
