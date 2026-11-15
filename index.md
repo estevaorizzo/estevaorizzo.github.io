@@ -77,6 +77,9 @@ Leia as [perguntas frequentes na página principal](https://estevaorizzo.com.br/
 
 ## Perfis e referências oficiais indicados no site
 
+- [Sobre Estevão Rizzo](https://estevaorizzo.com.br/about/): trajetória e relação com a mentoria; [versão Markdown](https://estevaorizzo.com.br/about.md).
+- [Contato](https://estevaorizzo.com.br/contact/): WhatsApp, empresa responsável e endereço comercial; [versão Markdown](https://estevaorizzo.com.br/contact.md).
+- [Privacidade da mentoria](https://estevaorizzo.com.br/privacy/): dados de navegação e atendimento; [versão Markdown](https://estevaorizzo.com.br/privacy.md).
 - [LinkedIn de Estevão Rizzo](https://www.linkedin.com/in/estevaorizzo/).
 - [Instagram de Estevão Rizzo](https://www.instagram.com/estevaorizzo/).
 - [Por Exemplo](https://porexemplo.pe/).
