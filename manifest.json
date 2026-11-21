@@ -21,8 +21,8 @@
       "bytes": 1097
     },
     "about/index.html": {
-      "sha256": "9a43e12ab4dca7d8f5622e1dbb489d378ec7416c191b25037d13b6bf6adf4588",
-      "bytes": 8052
+      "sha256": "4c530e636f2ce9650a49c43e8b7ead776b02fade7c0a761b91d5ab96678670bd",
+      "bytes": 8078
     },
     "assets/IMG-2420.899ae5d7d352.jpg": {
       "sha256": "899ae5d7d352a6641df0b8b0d1f7eead5ccc1688b6405f59681fe17ba1498b81",
@@ -124,6 +124,14 @@
       "sha256": "56d1e978faae932b57f47ee3e78b7fb428e0c21978a7f7d309bfb90a62b2ee9f",
       "bytes": 19502
     },
+    "assets/pagina.8f3137dc17a7.css": {
+      "sha256": "8f3137dc17a74e719579a03ee221813423dc6c026d193044099c51b701619b21",
+      "bytes": 20282
+    },
+    "assets/pagina.91dd7a4a78f7.css": {
+      "sha256": "91dd7a4a78f7c0b8daf2f5a6775ff592e1fca1d94e9a47086dd5ca6924d5f15e",
+      "bytes": 20401
+    },
     "assets/plateia-ampla.16590b679f77.jpeg": {
       "sha256": "16590b679f77e90b6ad067fe212892078122dd230d898ad22f2539c1f2fff8a8",
       "bytes": 120788
@@ -173,8 +181,8 @@
       "bytes": 1019
     },
     "contact/index.html": {
-      "sha256": "47aebd414f82c22093a4892715cab601deaf81b4d67fbec1388995ceffaf7b53",
-      "bytes": 7569
+      "sha256": "3ffac51734c1873a8f6e508c3358e3d8cf78a23463622a1e4d7139fd776e7533",
+      "bytes": 7595
     },
     "f626a1756aa918504d2ab8dbed5241ba.txt": {
       "sha256": "82448fecdb24325bbfad7b7fc08755b5f127817c8436bb3d97813f312e7304aa",
@@ -193,8 +201,8 @@
       "bytes": 9975
     },
     "index.html": {
-      "sha256": "e7f7fbb80e3ab1e381ae6bc735fe7e39c8bfda092bd2acb360ee1a11f492d2ea",
-      "bytes": 26780
+      "sha256": "4dcbf69d90fa828b30f6884921951d9d79da60ec3a57f28aff93ac02f9a21837",
+      "bytes": 26806
     },
     "index.md": {
       "sha256": "6bf3eddd6d26843a2a1d6bdd1968293e6144dce083dea76923fd976ea18547db",
@@ -209,8 +217,8 @@
       "bytes": 3424
     },
     "privacy/index.html": {
-      "sha256": "656cb68b176dd2d1ba69b171e2ca622d0a66f53e2d1026651521e271468cf88c",
-      "bytes": 10605
+      "sha256": "ac35cab36a7964c984f9ebbd1463604e3fb56b0c9a056f3e841e18b8822490e6",
+      "bytes": 10631
     },
     "robots.txt": {
       "sha256": "3c32a3e65b8a56066a1033460d0f89a4e708c187f9ac295eaea7d59c43b6d8a9",
