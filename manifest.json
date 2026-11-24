@@ -100,6 +100,10 @@
       "sha256": "81cae1bb611c559d7163ae39f64e3993a175ebf1e2e7043aa216a52bbb1d2701",
       "bytes": 3142
     },
+    "assets/medicao.9d34d02ee15d.js": {
+      "sha256": "9d34d02ee15d5713ea589387ec40b7ab8e1337fded8209fdc77ca32b9c9e8133",
+      "bytes": 3518
+    },
     "assets/medicao.e8d3e9f836d6.js": {
       "sha256": "e8d3e9f836d6ced9bef32ba67c5f4405544ffb1e213b1f69ad40fa46b5164367",
       "bytes": 2777
@@ -119,6 +123,10 @@
     "assets/pagina.0693e7f59848.css": {
       "sha256": "0693e7f59848518c9bcbb23956903adda38a7a53b542b8ca84c33574f1de24d2",
       "bytes": 19974
+    },
+    "assets/pagina.413127d67c90.css": {
+      "sha256": "413127d67c90a04cf9ee6a3e667b3de09d8c66c5b3f7554526c7defc5ee3979c",
+      "bytes": 22328
     },
     "assets/pagina.56d1e978faae.css": {
       "sha256": "56d1e978faae932b57f47ee3e78b7fb428e0c21978a7f7d309bfb90a62b2ee9f",
@@ -201,16 +209,16 @@
       "bytes": 9975
     },
     "index.html": {
-      "sha256": "4dcbf69d90fa828b30f6884921951d9d79da60ec3a57f28aff93ac02f9a21837",
-      "bytes": 26806
+      "sha256": "d98864a6e93d96f46bce61e4e3a368b99e6297cc74310a8f12200cb5816fdf41",
+      "bytes": 31416
     },
     "index.md": {
-      "sha256": "6bf3eddd6d26843a2a1d6bdd1968293e6144dce083dea76923fd976ea18547db",
-      "bytes": 5421
+      "sha256": "53434dee3b307f33b3f7dd44d7c097147085422863c4a29aabf20f16ec147ea3",
+      "bytes": 7373
     },
     "llms.txt": {
-      "sha256": "cd4ba27549aa684613f0a6c743adce748cfecee40121defce45128ce3c38d04f",
-      "bytes": 6064
+      "sha256": "f69e446e6a8ec9058c93e2a730a89e84ac8b8a33b880b22f7eac5522dd64f377",
+      "bytes": 6096
     },
     "privacy.md": {
       "sha256": "4baaf87734adcc10125988950fc1962246e5b5edb21d3e7b9dd79a754ebf3c7c",
@@ -225,7 +233,7 @@
       "bytes": 73
     },
     "sitemap.xml": {
-      "sha256": "4bd73e7b8f176faa2303514318845dcbf7b09c04ebc596609b6e0fb5d849974e",
+      "sha256": "448ee609fc71c24f5535262c5ff757fa8b87893eb3040c614d95927d75582da4",
       "bytes": 447
     }
   }

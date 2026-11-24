@@ -47,7 +47,7 @@ A avaliação inicial é sem custo. Os botões de agendamento da página oficial
 
 [Agendar avaliação sem custo](https://estevaorizzo.com.br/#contato).
 
-Para modalidade, local, agenda ou outras condições não descritas neste documento, confirme os detalhes diretamente no contato de agendamento.
+Para confirmar a agenda ou detalhes do atendimento presencial, use o contato de agendamento.
 
 ## Qual é a relação com FGV, FAAP e Por Exemplo?
 
@@ -57,21 +57,41 @@ A empresa identificada no rodapé do site é POR EXEMPLO CONSULTORIA E TREINAMEN
 
 ## Perguntas frequentes
 
-### Os encontros são em grupo ou individuais?
+### Como funciona a mentoria individual de oratória e apresentação?
 
-A mentoria tem 6 encontros individuais e práticos, de até 1h30 cada, com suporte pelo WhatsApp até o final do processo.
+No Do Zero ao Palco, você trabalha comigo na apresentação que precisa fazer. São seis encontros individuais de até 1h30: começamos pela estrutura do conteúdo, ajustamos a narrativa ao tempo disponível e ensaiamos até a versão final. Você também tem meu suporte pelo WhatsApp até o fim do processo.
 
-### Vou trabalhar na minha própria apresentação?
+### A mentoria é online ou presencial?
 
-Sim. Vamos trabalhar na sua própria apresentação, da organização do conteúdo ao ensaio final.
+Atendo online em todo o Brasil e presencialmente em São Paulo. Nos dois formatos, os encontros são individuais e o trabalho é em cima da sua apresentação.
 
-### A mentoria serve para quem vai falar em público pela primeira vez?
+### Posso preparar uma apresentação para a diretoria, em vez de uma palestra?
 
-Sim. A mentoria é para quem vai subir ao palco pela primeira vez e também para quem já fala em público e quer aperfeiçoar a técnica e a presença de palco.
+Sim. Podemos trabalhar, por exemplo, na apresentação de um projeto ou de resultados. Se você precisa que a diretoria tome uma decisão, começamos definindo qual é essa decisão. Isso ajuda a escolher o que precisa entrar na fala e o que pode ficar como material de apoio.
 
-### A avaliação inicial tem custo?
+### A mentoria serve para quem vai dar a primeira palestra?
 
-Não. A avaliação é sem custo. O agendamento é feito pelo WhatsApp.
+Sim. Primeiro, vamos entender o evento, quem vai ouvir você e quanto tempo você terá. Depois, organizamos o que vale contar e ensaiamos em voz alta. Se você já fala em público, usamos os ensaios para aperfeiçoar aspectos da entrega, como ritmo, entonação e presença.
+
+### Preciso chegar com a apresentação pronta?
+
+Não. No primeiro encontro, vamos entender o que você precisa apresentar e organizar a lógica do conteúdo. Se você já tem um roteiro ou slides, pode usar esse material como ponto de partida.
+
+### Como o storytelling entra numa apresentação de trabalho?
+
+Imagine que você vai apresentar os resultados de um projeto. Em vez de percorrer os números na ordem da planilha, você pode começar pelo que mudou, mostrar os dados que explicam essa mudança e terminar com o próximo passo. Na mentoria, a gente estrutura a narrativa a partir do seu conteúdo e do que o público precisa entender.
+
+### O que fazer se eu ficar nervoso ou der branco na hora de apresentar?
+
+Uma forma de se preparar é ensaiar como retomar o fio da apresentação se você se perder, em vez de depender de decorar cada frase. Na mentoria, simulamos perguntas, interrupções e falhas técnicas para praticar como voltar à ideia principal e seguir.
+
+### Quanto custa a mentoria Do Zero ao Palco?
+
+O programa completo custa R$ 4.750. O pagamento é dividido em duas partes: 50% após a primeira sessão e 50% após a quarta. A avaliação inicial não tem custo.
+
+### Como agendo a avaliação inicial? Ela tem custo?
+
+A avaliação é sem custo. Use o botão de agendamento para falar comigo pelo WhatsApp e me contar qual apresentação você precisa preparar.
 
 Leia as [perguntas frequentes na página principal](https://estevaorizzo.com.br/#perguntas-frequentes).
 
