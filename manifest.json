@@ -144,6 +144,10 @@
       "sha256": "ecba7a270ecc734feb789e9fa14595e89df4092dc92ccf87949e3ad0510886f8",
       "bytes": 22610
     },
+    "assets/plateia-ampla-mobile.6567b7dec1cf.webp": {
+      "sha256": "6567b7dec1cf907aa0c2427f9df4335eae67300752ae40c144d58b3a704d50a6",
+      "bytes": 57778
+    },
     "assets/plateia-ampla.16590b679f77.jpeg": {
       "sha256": "16590b679f77e90b6ad067fe212892078122dd230d898ad22f2539c1f2fff8a8",
       "bytes": 120788
@@ -213,8 +217,8 @@
       "bytes": 9975
     },
     "index.html": {
-      "sha256": "5e7dfc660334ff523ee3af2fc18e79a163c075a5d39258be6b5bdd1649a1c4d5",
-      "bytes": 31545
+      "sha256": "d6399276faff034ac27f29d169755fcecd584d819c0b06da43f88cc84b2d75df",
+      "bytes": 31672
     },
     "index.md": {
       "sha256": "53434dee3b307f33b3f7dd44d7c097147085422863c4a29aabf20f16ec147ea3",
